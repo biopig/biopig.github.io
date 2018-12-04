@@ -4,10 +4,10 @@
 baseurl:
 url: https://mojingman.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 陈凯的个人博客
+subtitle: "码梦为生，笔耕不"
+description: "陈凯的个人博客"
+keywords: 陈凯, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Chen Kai
+organization: mojingman.github.io
+organization_url: mojingman.github.io
+github_username: chenkai
+location: HangZhou, China
+email: chenkai.1108@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -114,7 +114,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
