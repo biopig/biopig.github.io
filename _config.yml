@@ -5,7 +5,7 @@ baseurl:
 url: https://mojingman.github.io/
 date_format: "ordinal"
 title: 陈凯的个人博客
-subtitle: "码梦为生，笔耕不"
+subtitle: "码梦为生，笔耕不辍"
 description: "陈凯的个人博客"
 keywords: 陈凯, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: Chen Kai
 organization: mojingman.github.io
 organization_url: mojingman.github.io
-github_username: chenkai
+github_username: mojingman
 location: HangZhou, China
 email: chenkai.1108@qq.com
 
