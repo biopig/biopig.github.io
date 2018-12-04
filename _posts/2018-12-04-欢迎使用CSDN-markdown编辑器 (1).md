@@ -1,4 +1,12 @@
-﻿@[TOC](这里asdsad写自定义目录标题)
+﻿---
+layout: post
+title: Android Studio 遇到问题集锦
+categories: Android
+description: Android Studio 使用过程中遇到的一些问题和解决方案集合。
+keywords: Android, Android Studio
+---
+
+@[TOC](这里asdsad写自定义目录标题)
 asdsad
 # 欢迎使用Markdown编辑器
 
