@@ -1,27 +1,23 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: mojingman
+  url: https://github.com/mojingman
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+- sitename: 网易云音乐
+  name: 阿猫是只狗_
+  url: https://music.163.com/#/user/home?id=275514768
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: 陈凯的个人博客
+  url: https://mojingman.github.io
 
 - sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
-
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+  name: 阿猫是只狗_
+  url: https://weibo.com/u/5583587157?topnav=1&wvr=6&topsug=1
 
 - sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+  name: 阿猫是只狗
+  url: https://www.douban.com/people/155227356/
+
+- sitename: 贴吧
+  name: 阿猫是只狗_
+  url: http://tieba.baidu.com/home/main?id=fccae99988e587afe4b98be8b7af6c3b?t=1520759840&fr=userbar
