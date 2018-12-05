@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mojingman.github.io/
+url: https://mojingman.github.io
 date_format: "ordinal"
 title: 陈凯的个人博客
 subtitle: "码梦为生，笔耕不辍"
