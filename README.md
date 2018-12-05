@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://mojingman.github.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://mojingman.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
