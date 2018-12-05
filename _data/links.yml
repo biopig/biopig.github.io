@@ -1,26 +1,26 @@
-- name: 码志
-  url: http://mazhuang.org
+- name: 陈凯博客
+  url: http://wenfengtou.github.io
 
-- name: Connie 酱
-  url: https://connie99.github.io
+- name: Android Developers
+  url: https://developer.android.google.cn/
 
-- name: 只宁静不致远
-  url: http://zxning.github.io
+- name: APICloud
+  url: https://www.apicloud.com/
 
-- name: Blog Something
-  url: http://chenxiaoyoyo.github.io
+- name: 知识星球
+  url: https://wx.zsxq.com/dweb/#/login
 
-- name: 日新亭
-  url: http://www.fengerzh.com/
+- name: 阿里巴巴矢量图标库
+  url: http://www.iconfont.cn/?spm=a313x.7781069.1998910419.d4d0a486a
 
-- name: 尧哥
-  url: http://www.shishuyao.com
+- name: Android Studio 中文社区
+  url: http://www.android-studio.org/
 
-- name: 叮咚购
-  url: http://www.ringwang.com/
+- name: Maven
+  url: https://search.maven.org/search?q=struts2-convention-plugin
 
-- name: wanandroid
-  url: http://www.wanandroid.com/
+- name: Kotlin
+  url: https://www.kotlincn.net/docs/reference/android-overview.html
 
-- name: ZZY补完计划
-  url: https://zzycreate.github.io/
+- name: 菜鸟教程
+  url: http://www.runoob.com/
