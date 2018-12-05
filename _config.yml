@@ -27,11 +27,11 @@ email: chenkai.1108@qq.com
 # ---------------- #
 navs:
   -
-    href: /
+    href: 
     label: 首页
 
   -
-    href: /categories/
+    href: categories/
     label: 分类
 
 #   -
@@ -39,15 +39,15 @@ navs:
 #     label: 归档
 
   -
-    href: /wiki/
+    href: wiki/
     label: 维基
 
   -
-    href: /links/
+    href: links/
     label: 链接
 
   -
-    href: /about/
+    href: about/
     label: 关于
 
 # ---------------- #
