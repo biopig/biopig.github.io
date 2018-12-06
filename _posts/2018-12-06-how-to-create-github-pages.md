@@ -104,7 +104,7 @@ keywords: GitHub Pages,GitHub
 
 注意：owner是你的name，repo是你博客仓库名，若果你不做评论模块修改，那用的评论就是我的
 
-##怎么写博客
+## 怎么写博客
 
 通过Markdown编辑器
 
