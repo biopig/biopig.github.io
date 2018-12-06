@@ -133,7 +133,7 @@ keywords: GitHub Pages,GitHub
 
 可以设置为中文![](https://i.imgur.com/0zZLXVU.png)
 
-在win10和win8软件会报错，需要下载一个组件awesomium_v1.6.6_sdk_win[下载](https://pan.baidu.com/s/1rIdXInA5iJOjQOE4cDuRaQ)，安装之后重启MarkdownPad就可以了。
+在win10和win8软件会报错，需要下载一个组件"awesomium_v1.6.6_sdk_win" [点击此处下载](https://pan.baidu.com/s/1rIdXInA5iJOjQOE4cDuRaQ) 安装之后重启MarkdownPad就可以了。
 
 小结：博客命名是 时间-搜索关键 这样，比如：`时间-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
 
