@@ -116,11 +116,9 @@ keywords: GitHub Pages,GitHub
 
 **[在线预览 &rarr;](https://mojingman.github.io)**
 
-##怎么写博客
+## 怎么写博客
 
-通过Markdown编辑器
-
-网上找了很多编辑器比较好的一款是MarkdownPad，[点击此处下载资源](http://www.markdownpad.com/download.html)
+通过Markdown编辑器,网上找了很多编辑器比较好的一款是MarkdownPad，[点击此处下载资源](http://www.markdownpad.com/download.html)
 
 破解：
 
