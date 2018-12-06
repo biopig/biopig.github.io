@@ -75,13 +75,13 @@ keywords: GitHub Pages,GitHub
 
 主要要修改的文件有：
 
-①\_data下所有文件
+* \_data下所有文件
 
-②assets\images 中的二维码替换成自己的
+* assets文件夹下images中的二维码替换成自己的
 
-③\_includes文件夹下sidebar-qrcode.html第一行代码：
+* \_includes文件夹下sidebar-qrcode.html第一行代码：
 `{% if site.url contains 'mojingman.github.io' %}`中的`mojingman.github.io`修改成自己的name
 
-④`pages` 页面显示内容可以修改成自己想要显示的文字，主要修改`about.md`文件，其他看自己
+* `pages` 页面显示内容可以修改成自己想要显示的文字，主要修改 about.md 文件，其他看自己
 
-⑤`_config.yml`里`Main Configs、Author` 全部修改成自己的信息。
+* \_config.yml里`Main Configs、Author` 全部修改成自己的信息。
