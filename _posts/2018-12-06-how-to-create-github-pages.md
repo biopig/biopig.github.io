@@ -134,11 +134,6 @@ keywords: GitHub Pages,GitHub
 
 在博客顶部还需要加入下面字段，回去自动归类和显示标题等：
 
-    layout: post
-    title: template page
-    categories: [cate1, cate2]
-    description: some word here
-    keywords: keyword1, keyword2
-   
+   ![](/images/posts/github/show-config.png)
 
 2018/12/6 11:43:36
