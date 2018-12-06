@@ -77,7 +77,7 @@ keywords: GitHub Pages,GitHub
 
 ①\_data下所有文件
 
-②\assets\images替换二维码图片
+②assets\images 中的二维码替换成自己的
 
 ③\_includes文件夹下sidebar-qrcode.html第一行代码：
 `{% if site.url contains 'mojingman.github.io' %}`中的`mojingman.github.io`修改成自己的name
