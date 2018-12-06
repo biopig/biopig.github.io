@@ -73,7 +73,7 @@ keywords: GitHub Pages,GitHub
 
 `_config.yml`整个博客的主要配置文件
 
-主要要修改的文件有：
+主要要修改的文件有。
 
 * \_data下所有文件。
 * assets文件夹下images中的二维码替换成自己的。
