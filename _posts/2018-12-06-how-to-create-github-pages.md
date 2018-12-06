@@ -77,3 +77,5 @@ keywords: GitHub Pages,GitHub
 
 `_data` 文件夹下的所有文件
 
+`assets\images`中的二维码图片
+
