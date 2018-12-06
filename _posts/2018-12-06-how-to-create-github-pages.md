@@ -133,11 +133,11 @@ keywords: GitHub Pages,GitHub
 
 可以设置为中文![](https://i.imgur.com/0zZLXVU.png)
 
-在win10和win8软件会报错，需要下载一个组件awesomium_v1.6.6_sdk_win[下载](https://pan.baidu.com/s/1rIdXInA5iJOjQOE4cDuRaQ)，安装之后重启MarkdownPad就可以了
+在win10和win8软件会报错，需要下载一个组件awesomium_v1.6.6_sdk_win[下载](https://pan.baidu.com/s/1rIdXInA5iJOjQOE4cDuRaQ)，安装之后重启MarkdownPad就可以了。
 
-小结：博客命名是 时间-搜索关键 这样，比如：`2018-12-05-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
+小结：博客命名是 时间-搜索关键 这样，比如：`时间-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
 
 在博客顶部还需要加入下面字段，回去自动归类和显示标题等：
    ![](https://i.imgur.com/h3Rgf68.png)
 
-2018/12/6 11:43:36 
+2018/12/6 11:43:36
