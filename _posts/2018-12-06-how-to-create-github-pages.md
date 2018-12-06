@@ -39,7 +39,7 @@ keywords: GitHub Pages,GitHub
 
 * 把fork模板仓库的所有的文件夹复制到自己创建的仓库
 
-* 通过github客户端提交代码到github
+* 通过github客户端提交代码到 github 
 
 ![commit-code](/images/posts/github/push-code)
 
@@ -68,7 +68,7 @@ keywords: GitHub Pages,GitHub
 
 `pages`博客页面显示内容在此文件夹下，可以修改成自己的信息
 
-`favicon.ico`网站logo，可以换成自己的
+`favicon.ico`网站 logo，可以换成自己的
 
 `_config.yml`整个博客的主要配置文件
 
@@ -84,7 +84,7 @@ keywords: GitHub Pages,GitHub
 
 ⑤`_config.yml`里`Main Configs、Author` 全部修改成自己的信息。
 
-**评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。我用的是gitalk,Gitalk 需要一个 Github Application，[点击这里申请](https://github.com/settings/applications/new)。
+**评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。我用的是 gitalk , Gitalk 需要一个 Github Application，[点击这里申请](https://github.com/settings/applications/new)。
 ![](/images/posts/github/register-blog)
 点击创建
 
@@ -98,7 +98,7 @@ keywords: GitHub Pages,GitHub
     repo: mojingman.github.io
     clientID: 刚刚申请的Client ID
     clientSecret: Client Secret
-注意：owner是你的name，repo是你博客仓库名，若果你不做评论模块修改，那用的评论就是我的
+注意：owner 是你的 name，repo 是你博客仓库名，若果你不做评论模块修改，那用的评论就是我的
 
 ⑥删除我的文章与图片。
 
@@ -109,7 +109,7 @@ keywords: GitHub Pages,GitHub
 > * _wiki 文件夹中是我已发布的 wiki 页面
 > * images 文件夹中是我的文章和页面里使用的图片
  
- 该删除的删除，该修改的修改全部完成之后，上传所有的代码，如何上传代码上面有讲，至此所有配置完成了。这个个人微博搭建是在别人的模板基础上进行的，没有去看Jekyll的配置。你们有兴趣可以自己学习，傻瓜教程。
+ 该删除的删除，该修改的修改全部完成之后，上传所有的代码，如何上传代码上面有讲，至此所有配置完成了。这个个人微博搭建是在别人的模板基础上进行的，没有去看 Jekyll 的配置。你们有兴趣可以自己学习，傻瓜教程。
 
 **[在线预览 &rarr;](https://mojingman.github.io)**
 
