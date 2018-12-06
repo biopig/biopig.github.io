@@ -73,13 +73,14 @@ keywords: GitHub Pages,GitHub
 
 `_config.yml`整个博客的主要配置文件
 
-小结：主要要修改的文件有：
+主要要修改的文件有：
 
 ①`_data`下所有文件
 
-②`assets\images`二维码图片
+②`assets\images` 替换二维码图片
 
-③`_includes/sidebar-qrcode.html`文件第一行代码：`{% if site.url contains 'mojingman.github.io' %}`中的`mojingman.github.io`修改成自己的
+③`_includes/sidebar-qrcode.html`文件第一行代码：
+`{% if site.url contains 'mojingman.github.io' %}`中的`mojingman.github.io`修改成自己的name
 
 ④`pages` 页面显示内容可以修改成自己想要显示的文字，主要修改`about.md`文件，其他看自己
 
