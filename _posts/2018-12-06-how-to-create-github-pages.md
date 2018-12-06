@@ -5,6 +5,7 @@ categories: GitHub
 description: 如何傻瓜式建立自己的github pages博客
 keywords: GitHub Pages,GitHub
 ---
+如何傻瓜式建立自己的github pages博客
 
 ## 前言
 写博客的地方很多，比如CSDN、简书等等。但是Github Pages可以定制下自己博客的外观，随心随意，github有很多很多开源优秀项目，可以学习，自己的博客还可以装逼啊。
