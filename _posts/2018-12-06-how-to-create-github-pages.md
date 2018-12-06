@@ -10,6 +10,8 @@ keywords: GitHub Pages,GitHub
 ## 前言
 写博客的地方很多，比如CSDN、简书等等。但是Github Pages可以定制下自己博客的外观，随心随意，github有很多很多开源优秀项目，可以学习，自己的博客还可以装逼啊。
 
+**[在线预览 &rarr;](https://mojingman.github.io)**
+
 ### 1.在github创建一个仓库
     用户名.github.io
 仓库的名字必须是 `github登录name.github.io `
@@ -99,5 +101,35 @@ keywords: GitHub Pages,GitHub
     repo: mojingman.github.io
     clientID: 刚刚申请的Client ID
     clientSecret: Client Secret
+
 注意：owner是你的name，repo是你博客仓库名，若果你不做评论模块修改，那用的评论就是我的
+
+##怎么写博客
+
+通过Markdown编辑器
+
+网上找了很多编辑器比较好的一款是MarkdownPad，[点击此处下载资源](http://www.markdownpad.com/download.html)
+
+破解：
+
+    Email address :Soar360@live.com
+
+    License key : 
+    GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6bnxn2kSE8qHqNY5QaaRxmO3YSMHxlv2EYpjdwLcPwfeTG7kUdnhKE0vVy4RidP6Y2wZ0q74f47fzsZo45JE2hfQBFi2O9Jldjp1mW8HUpTtLA2a5/sQytXJUQl/QKO0jUQY4pa5CCx20sV1ClOTZtAGngSOJtIOFXK599sBr5aIEFyH0K7H4BoNMiiDMnxt1rD8Vb/ikJdhGMMQr0R4B+L3nWU97eaVPTRKfWGDE8/eAgKzpGwrQQoDh+nzX1xoVQ8NAuH+s4UcSeQ==
+![](https://i.imgur.com/IQkgfdX.png)
+
+
+可以设置为中文![](https://i.imgur.com/0zZLXVU.png)
+
+在win10和win8软件会报错，需要下载一个组件awesomium_v1.6.6_sdk_win[下载](https://pan.baidu.com/s/1rIdXInA5iJOjQOE4cDuRaQ)，安装之后重启MarkdownPad就可以了
+
+小结：博客命名是 时间-搜索关键 这样，比如：`2018-12-05-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
+
+在博客顶部还需要加入下面字段，回去自动归类和显示标题等：
+   
+    layout: post
+    title: template page
+    categories: [cate1, cate2]
+    description: some word here
+    keywords: keyword1, keyword2
 
