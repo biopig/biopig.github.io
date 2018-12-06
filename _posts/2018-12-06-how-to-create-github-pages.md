@@ -32,3 +32,17 @@ keywords: GitHub Pages,GitHub
  [github page官方建站指导](https://pages.github.com)介绍要让自己的博客变的很漂亮可以使用[Jekyll](https://jekyllrb.com/)，[了解如何设置Jekyll](https://jekyllrb.com/docs/)。
 
 我比较懒，没有去自己从头配置Jekyll，然后直接用的别人配置好的。你可以在github上搜索下jekyll page，有很多很好看的模板，你可以`fork`到自己的github.我用的模板是[码志](https://github.com/mzlogin/mzlogin.github.io)
+
+### 4.替换代码
+
+* `fork`别人的模板仓库到自己github之后下载到本地(过程和第2步一样)。
+
+![](https://i.imgur.com/X5rKMu7.png)
+
+* 把fork模板仓库的所有的文件夹复制到自己创建的仓库
+
+* 通过github客户端提交代码到github
+
+![commit-code](https://i.imgur.com/MCsB9No.png)
+
+* 访问`name.github.io`,例如 [mojingman.github.io](mojingman.github.io)看自己所用模板
