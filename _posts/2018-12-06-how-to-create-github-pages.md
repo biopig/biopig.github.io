@@ -131,9 +131,9 @@ keywords: GitHub Pages,GitHub
 ![](https://i.imgur.com/IQkgfdX.png)
 
 
-可以设置为中文![](https://i.imgur.com/0zZLXVU.png)
 
-![](https://i.imgur.com/tSJd1D1.png)
+
+可以设置为中文![](https://i.imgur.com/0zZLXVU.png)
 
 小结：博客命名是 时间-搜索关键 这样，比如：`时间-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
 
