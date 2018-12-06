@@ -84,3 +84,20 @@ keywords: GitHub Pages,GitHub
 `pages` 页面显示内容可以修改成自己想要显示的文字，主要修改`about.md`文件，其他看自己
 
 `_config.yml`里`Main Configs、Author` 全部修改成自己的信息。
+
+**评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。我用的是gitalk,Gitalk 需要一个 Github Application，[点击这里申请](https://github.com/settings/applications/new)。
+![](https://i.imgur.com/7T0Oqm4.png)
+点击创建
+
+获取` Client ID` 和 `Client Secret`
+![](https://i.imgur.com/dEmipF5.png)
+
+修改`_config.yml`下 Comments内容
+
+    gitalk:
+    owner: mojingman
+    repo: mojingman.github.io
+    clientID: 刚刚申请的Client ID
+    clientSecret: Client Secret
+注意：owner是你的name，repo是你博客仓库名，若果你不做评论模块修改，那用的评论就是我的
+
