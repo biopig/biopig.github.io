@@ -22,7 +22,7 @@ keywords: GitHub Pages,GitHub
 
 (2)`clone`刚刚创建的仓库到本地
 
-![clone-code](https://i.imgur.com/rnYVfeC.png)
+![clone-code](/images/posts/github/clone-code.png)
 
 
 ### 3.找自己喜欢的博客模板
@@ -35,13 +35,13 @@ keywords: GitHub Pages,GitHub
 
 * `fork`别人的模板仓库到自己github之后下载到本地(过程和第2步一样)。
 
-![](https://i.imgur.com/X5rKMu7.png)
+![](/images/posts/github/fork-code)
 
 * 把fork模板仓库的所有的文件夹复制到自己创建的仓库
 
 * 通过github客户端提交代码到github
 
-![commit-code](https://i.imgur.com/MCsB9No.png)
+![commit-code](/images/posts/github/push-code)
 
 * 访问`name.github.io`,例如 [mojingman.github.io](mojingman.github.io)看自己所用模板
 
@@ -85,11 +85,11 @@ keywords: GitHub Pages,GitHub
 ⑤`_config.yml`里`Main Configs、Author` 全部修改成自己的信息。
 
 **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。我用的是gitalk,Gitalk 需要一个 Github Application，[点击这里申请](https://github.com/settings/applications/new)。
-![](https://i.imgur.com/7T0Oqm4.png)
+![](/images/posts/github/register-blog)
 点击创建
 
 获取` Client ID` 和 `Client Secret`
-![](https://i.imgur.com/dEmipF5.png)
+![](/images/posts/github/show-bolg.png)
 
 修改`_config.yml`下 Comments内容
 
@@ -128,11 +128,17 @@ keywords: GitHub Pages,GitHub
 
     License key : 
     GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6bnxn2kSE8qHqNY5QaaRxmO3YSMHxlv2EYpjdwLcPwfeTG7kUdnhKE0vVy4RidP6Y2wZ0q74f47fzsZo45JE2hfQBFi2O9Jldjp1mW8HUpTtLA2a5/sQytXJUQl/QKO0jUQY4pa5CCx20sV1ClOTZtAGngSOJtIOFXK599sBr5aIEFyH0K7H4BoNMiiDMnxt1rD8Vb/ikJdhGMMQr0R4B+L3nWU97eaVPTRKfWGDE8/eAgKzpGwrQQoDh+nzX1xoVQ8NAuH+s4UcSeQ==
-![](https://i.imgur.com/IQkgfdX.png)
+![](/images/posts/github/crack-markdownpad.png)
 
 小结: 博客命名是 “时间-搜索关键.md” 这样，比如：`时间-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
 
 在博客顶部还需要加入下面字段，回去自动归类和显示标题等：
-   ![](https://i.imgur.com/h3Rgf68.png)
+
+    layout: post
+    title: template page
+    categories: [cate1, cate2]
+    description: some word here
+    keywords: keyword1, keyword2
+   
 
 2018/12/6 11:43:36
