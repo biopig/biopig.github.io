@@ -72,12 +72,3 @@ keywords: GitHub Pages,GitHub
 `favicon.ico`网站logo，可以换成自己的
 
 `_config.yml`整个博客的主要配置文件
-
-主要要修改的文件有。
-  
- * \_data下所有文件。 
- * assets文件夹下images中的二维码替换成自己的。 
- * \_includes文件夹下sidebar-qrcode.html第一行代码
-`{% if site.url contains 'mojingman.github.io' %}`中的`mojingman.github.io`修改成自己的name。  
- * `pages` 页面显示内容可以修改成自己想要显示的文字，主要修改 about.md 文件，其他看自己。 
- * \_config.yml里`Main Configs、Author` 全部修改成自己的信息。 
