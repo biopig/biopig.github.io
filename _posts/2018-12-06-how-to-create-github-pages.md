@@ -9,7 +9,9 @@ keywords: GitHub Pages,GitHub
 写博客的地方很多，比如CSDN、简书等等。但是Github Pages可以定制下自己博客的外观，随心随意，github有很多很多开源优秀项目，可以学习，自己的博客还可以装逼啊。
 
 ### 1.在github创建一个仓库
+```
     用户名.github.io
+```
 仓库的名字必须是 `github登录name.github.io `
 
 例如(我的github名mojingman)：`mojingman.github.io`
@@ -93,14 +95,20 @@ keywords: GitHub Pages,GitHub
 
 修改`_config.yml`下 Comments内容
 
+```
     gitalk:
     owner: mojingman
     repo: mojingman.github.io
     clientID: 刚刚申请的Client ID
     clientSecret: Client Secret
+```
 注意：owner 是你的 name，repo 是你博客仓库名，若果你不做评论模块修改，那用的评论就是我的
 
+⑥删除我的文章与图片
 
+删除 `_posts、_drafts、_wiki、images` 下除了template.md 以外的所有文件，然后添加你自己的内容，该删除的删除，该修改的修改全部完成之后，上传所有的代码，如何上传代码上面有讲，至此所有配置完成了。这个个人微博搭建是在别人的模板基础上进行的，没有去看 Jekyll 的配置。你们有兴趣可以自己学习，傻瓜教程。
+
+**[在线预览 &rarr;](https://mojingman.github.io)**
 
 ## 怎么写博客
 
