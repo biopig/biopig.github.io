@@ -12,7 +12,7 @@ keywords: GitHub Pages,GitHub
 ```
     用户名.github.io
 ```
-仓库的名字必须是 `github登录name.github.io `
+仓库的名字必须是 `githubname.github.io `
 
 例如(我的github名mojingman)：`mojingman.github.io`
 
@@ -52,13 +52,13 @@ keywords: GitHub Pages,GitHub
   
 上面的步骤只是把别人的模板拿过来自己用，但是里面所有的数据都是别人，要修改成自己的数据或者自己配置，根据你所应用模板的文件夹具体修改，我这里只说明我所有模板的修改。
 
-`_data` 文件夹下三个文件分别对应博客页面`链接、关于`的类容，可以通过TXT等工具打开直接修改成自己的信息，可以增加删除相关数据
+`_data` 文件夹下三个文件分别对应博客页面链接、关于的类容，可以通过TXT等工具打开直接修改成自己的信息，可以增加删除相关数据
 
 `_drafts`文件夹下是博客草稿
 
 `_includes`博客页面头和脚公共的主要布局，html自己有兴趣可以进行修改
 
-`_layouts`对应博客`首页、分类、维基、链接、关于`页面的布局
+`_layouts`对应博客首页、分类、维基、链接、关于页面的布局
 
 `_posts`自己博客基本上全在这个文件夹，除了`template.md`文件其他文件都可以删除，因为其他都是别人的博客
 
@@ -99,13 +99,15 @@ keywords: GitHub Pages,GitHub
     gitalk:
     owner: mojingman
     repo: mojingman.github.io
-    clientID: 刚刚申请的Client ID
+    clientID: Client ID
     clientSecret: Client Secret
 ```
 注意：owner 是你的 name，repo 是你博客仓库名，若果你不做评论模块修改，那用的评论就是我的
 
 ⑥删除我的文章与图片
 
+```
+```
 删除_posts、_drafts、_wiki、images文件夹下除了template.md 以外的所有文件，然后添加你自己的内容，该删除的删除，该修改的修改全部完成之后，上传所有的代码，如何上传代码上面有讲，至此所有配置完成了。这个个人微博搭建是在别人的模板基础上进行的，没有去看 Jekyll 的配置。你们有兴趣可以自己学习，傻瓜教程。
 
 **[在线预览 &rarr;](https://mojingman.github.io)**
