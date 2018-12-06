@@ -79,5 +79,5 @@ keywords: GitHub Pages,GitHub
 
 `assets\images`中的二维码图片
 
-_includes\sidebar-qrcode.html文件中第一行代码：`{% if site.url contains 'mojingman.github.io' %}`中的`mojingman.github.io`修改成自己的
+`_includes`下`sidebar-qrcode.html`文件中第一行代码：`if site.url contains 'mojingman.github.io' `中的`mojingman.github.io`修改成自己的
 
