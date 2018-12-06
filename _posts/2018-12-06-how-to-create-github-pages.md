@@ -131,7 +131,7 @@ keywords: GitHub Pages,GitHub
 
 ![](/images/posts/github/crack-markdownpad.png)
 
-小结: 博客命名是 “时间-搜索关键.md” 这样，比如：`时间-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
+博客命名是 “时间-搜索关键.md” 这样，比如：`时间-github-page.md` 这样你在页面搜索的时候，搜索github和page就能搜索到这篇博客
 
 在博客顶部还需要加入下面字段，回去自动归类和显示标题等：
 
