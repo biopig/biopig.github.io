@@ -6,6 +6,7 @@ description: JQuery Mobile如何下载文件
 keywords: Web App,Jquery Mobile
 ---
 JQuery Mobile如何下载文件
+
 ## 前言
 JQuery Mobile的请求基本上都是通过Ajax来完成的，但是ajax请求只是个“字符型”的请求，即请求的内容是以文本类型存放的,文件的下载是以二进制形式进行的也就是流，ajax是不能返回的，虽然可以读取到返回的response，但只是读取而已，是无法执行的。 
 
@@ -153,8 +154,8 @@ JQuery Mobile的请求基本上都是通过Ajax来完成的，但是ajax请求�
 		  
 		 
 	}
-效果图：
 
+效果图：
 ![](/images/posts/jquerymobile/download-doc.png)
 
 有什么不清楚的，留言一起学习
