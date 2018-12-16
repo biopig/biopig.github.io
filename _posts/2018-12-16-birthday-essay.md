@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 23岁生日随笔
-categories: GitHub
+categories: Personal
 description: 23岁生日随笔
-keywords: Personal
+keywords: Birthday
 ---
 等风来不如追风去，追逐的过程就是人生的意义
 
