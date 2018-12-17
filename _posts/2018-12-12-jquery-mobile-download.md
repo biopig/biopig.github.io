@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JQuery Mobile下载文件
-categories: Jquery Mobile
+categories: JqueryMobile
 description: JQuery Mobile如何下载文件
 keywords: Web App,Jquery Mobile
 ---
