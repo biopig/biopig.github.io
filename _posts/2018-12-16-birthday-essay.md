@@ -16,7 +16,7 @@ keywords: Birthday
 每一次生日，是自己心境的改观，开始我不去感慨时间的流逝，因为在未来的时光里，被时间带走的，只会更多，不会更少。但是留下的我会去好好珍惜，友情，亲情。。。。珍惜我现在拥有的所有。
 
 
-![](https://i.imgur.com/s3J73gC.jpg)
+![](/images/posts/personal/mwqn.jpg)
 
 
 ### 恰同学少年
@@ -27,19 +27,19 @@ keywords: Birthday
 
 在我记忆里她很静，文文弱弱的很少很少说话，可能那个时候她没有融入我们吧。到今天她说起她的求学历程的时候，感觉很辛苦很孤单，来来回回的转学，连个朋友都没有，这都是后话了。但是今天感觉很健谈像变了一个人一样，觉得不是分开五六年的同学，而是朋友，还是蛮开心的。不得不说一句时间过得真快6年多了，别妄想着倒带，这是生活，不是电影
 
-![](https://i.imgur.com/jYw75rM.jpg)
+![](/images/posts/personal/qtxsn.jpg)
 
 ### 蓦然回首
 
 时光匆匆，年华已过，匆匆远去的是时光和背影，留在心中的是回忆和期待。
 
 
-![](https://i.imgur.com/E1pILdc.jpg)
+![](/images/posts/personal/mrhs.jpg)
 
 > 最后谢谢闫同学的盛情款待，谢谢石同学的蛋糕!
 
 
-![](https://i.imgur.com/Ah95kx2.jpg)
+![](/images/posts/personal/srkl.jpg)
 
 还有明年我要找个女朋友“伺候”我（手动滑稽）
 
