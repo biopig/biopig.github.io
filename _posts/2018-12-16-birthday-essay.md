@@ -34,12 +34,12 @@ keywords: Birthday
 时光匆匆，年华已过，匆匆远去的是时光和背影，留在心中的是回忆和期待。
 
 
-![](/images/posts/personal/mrhs.jpg)
+![](https://i.imgur.com/E1pILdc.jpg)
 
 > 最后谢谢闫同学的盛情款待，谢谢石同学的蛋糕!
 
 
-![](/images/posts/personal/srkl.jpg)
+![](https://i.imgur.com/Ah95kx2.jpg)
 
 还有明年我要找个女朋友“伺候”我（手动滑稽）
 
