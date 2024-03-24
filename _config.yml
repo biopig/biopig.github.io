@@ -108,7 +108,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
     type: git
-    repository: git@github.com:yanzhongsino/yanzhongsino.github.io.git
+    repository: git@github.com:biopig/biopig.github.io.git
     branch: master
 
 
@@ -295,7 +295,7 @@ theme_config:
   # Key is the link label showing to end users.
   # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
   social:
-    GitHub: https://github.com/yanzhongsino || fab fa-github
+    GitHub: https://github.com/biopig || fab fa-github
     E-Mail: mailto:yan.zhong.sino@gmail.com || fa fa-envelope
     #Weibo: https://weibo.com/yourname || fab fa-weibo
     #Google: https://plus.google.com/yourname || fab fa-google
@@ -403,7 +403,7 @@ theme_config:
   # follow_me:
     #Twitter: https://twitter.com/username || fab fa-twitter
     #Telegram: https://t.me/channel_name || fab fa-telegram
-    # WeChat: https://github.com/yanzhongsino/yanzhongsino.github.io/blob/hexo/source/wechat/wechat_channel.jpg?raw=true || fab fa-weixin
+    # WeChat: https://github.com/biopig/biopig.github.io/blob/hexo/source/wechat/wechat_channel.jpg?raw=true || fab fa-weixin
     #RSS: /atom.xml || fa fa-rss
 
   # Wechat Subscriber
@@ -717,7 +717,7 @@ theme_config:
   # Disqus
   disqus:
     enable: true
-    shortname: yanzhongsino
+    shortname: biopig
     count: true
     #post_meta_order: 0
 
