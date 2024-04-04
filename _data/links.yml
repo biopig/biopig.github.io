@@ -1,26 +1,6 @@
-- name: 陈凯博客
-  url: http://mojingman.github.io
+- name: 詹为民博客
+  url: http://biopig.github.io
 
-- name: Android Developers
-  url: https://developer.android.google.cn/
+- name: 简书
+  url: https://www.jianshu.com/u/7ab59873d97a
 
-- name: APICloud
-  url: https://www.apicloud.com/
-
-- name: 知识星球
-  url: https://wx.zsxq.com/dweb/#/login
-
-- name: 阿里巴巴矢量图标库
-  url: http://www.iconfont.cn/?spm=a313x.7781069.1998910419.d4d0a486a
-
-- name: Android Studio 中文社区
-  url: http://www.android-studio.org/
-
-- name: Maven
-  url: https://search.maven.org/search?q=struts2-convention-plugin
-
-- name: Kotlin
-  url: https://www.kotlincn.net/docs/reference/android-overview.html
-
-- name: 菜鸟教程
-  url: http://www.runoob.com/
