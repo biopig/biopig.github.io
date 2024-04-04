@@ -1,13 +1,13 @@
 # 阿猫是只狗
 
-我的个人博客：<https://mojingman.github.io>
+我的个人博客：<https://biopig.github.io>
 
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mojingman.github.io)**
+**[在线预览 &rarr;](https://biopig.github.io)**
 
-![screenshot home](https://mojingman.github.io/assets/images/screenshots/home1.png)
+![screenshot home](https://biopig.github.io/assets/images/screenshots/home1.png)
 
 
 本本博客外观基于 [mzlogin](https://mazhuang.org) 修改,感谢！
