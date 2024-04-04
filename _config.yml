@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mojingman.github.io
+url: https://biopig.github.io
 date_format: "ordinal"
 title: 陈凯的Blog
 subtitle: "把一件事做到极致，其他的都会有"
 description: "闲庭信步笑看花开花落 宠辱不惊冷观云卷云舒"
-keywords: 陈凯, Chen Kai, mojingman, chenkai
+keywords: 陈凯, Chen Kai, biopig, chenkai
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -16,9 +16,9 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Chen Kai
-organization: mojingman.github.io
-organization_url: mojingman.github.io
-github_username: mojingman
+organization: biopig.github.io
+organization_url: biopig.github.io
+github_username: biopig
 location: HangZhou, China
 email: chenkai.1108@qq.com
 
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mojingman/mojingman.github.io
+repository: biopig/biopig.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,15 +95,15 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mojingman
-    repo: mojingman.github.io
+    owner: biopig
+    repo: biopig.github.io
     oauth:
         client_id: 0cd5415a3370733a2af5
         client_secret: 15f4943d6c3b7f65c8600c9674dcea9f998704a5
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mojingman
-    repo: mojingman.github.io
+    owner: biopig
+    repo: biopig.github.io
     clientID: 0cd5415a3370733a2af5
     clientSecret: 15f4943d6c3b7f65c8600c9674dcea9f998704a5
 # 在使用其它评论组件时可点击显示 Disqus
