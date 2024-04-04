@@ -4,10 +4,10 @@
 baseurl:
 url: https://biopig.github.io
 date_format: "ordinal"
-title: 陈凯的Blog
+title: 詹为民的Blog
 subtitle: "把一件事做到极致，其他的都会有"
 description: "闲庭信步笑看花开花落 宠辱不惊冷观云卷云舒"
-keywords: 陈凯, Chen Kai, biopig, chenkai
+keywords: 詹为民, Weimin Zhan, biopig
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Chen Kai
+author: Weimin Zhan
 organization: biopig.github.io
 organization_url: biopig.github.io
 github_username: biopig
-location: HangZhou, China
-email: chenkai.1108@qq.com
+location: GuangZhou, China
+email: 630950832@qq.com
 
 # ---------------- #
 #    Navigation    #
