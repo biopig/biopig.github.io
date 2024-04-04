@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Chen kai, 陈凯
+description: 生信改变世界
+keywords: Weimin Zhan, 詹为民
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是陈凯，码梦为生，笔耕不辍。
+我是詹为民，始于农学，终于生信。
 
 仰慕「优雅编码的艺术」。
 
