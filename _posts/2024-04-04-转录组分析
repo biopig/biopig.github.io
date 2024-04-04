@@ -1,7 +1,10 @@
-
-
-
-
+---
+layout: post
+title: 转录组分析大致流程
+categories: [RNA-seq, 转录组]
+description: 转录组分析大致流程
+keywords: RNA-seq, 转录组
+---
 
 ### 转录组分析
 
